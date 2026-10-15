@@ -2,7 +2,7 @@
 // Fetches GitHub releases client-side. Falls back to a static releases-page
 // link if the API is unreachable or rate-limited.
 (function (global) {
-  var REPO = 'Egg3901/metroforge-native';
+  var REPO = 'lakesidegamedev/metroforge-native';
   var API = 'https://api.github.com/repos/' + REPO + '/releases';
   var RELEASES_PAGE = 'https://github.com/' + REPO + '/releases';
   var LATEST_PAGE = RELEASES_PAGE + '/latest';
