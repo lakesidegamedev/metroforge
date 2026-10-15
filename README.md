@@ -1,8 +1,8 @@
 # MetroForge
 
-Static storefront and download page for [MetroForge](https://github.com/Egg3901/metroforge-native), a native 3D transit builder.
+Static storefront and download page for [MetroForge](https://github.com/lakesidegamedev/metroforge-native), a native 3D transit builder.
 
-**Game code lives in [metroforge-native](https://github.com/Egg3901/metroforge-native)** (`sim/`). This repo only builds the marketing site.
+**Game code lives in [metroforge-native](https://github.com/lakesidegamedev/metroforge-native)** (`sim/`). This repo only builds the marketing site.
 
 ## Run
 
